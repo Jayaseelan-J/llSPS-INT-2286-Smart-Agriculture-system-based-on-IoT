@@ -7,11 +7,11 @@ temperature. To water their crops with an inclusive of a weather forecast API. H
 they can select and yield an efficient crop to climatic conditions.
   
 # Purpose:  
-    This web application will help in the development of agriculture by helping
+This web application will help in the development of agriculture by helping
 farmers in their work. The web application provides data about soil moisture,
 temperature and humidity of their land. The weather forecast api is also included to help
 them water crops in suitable conditions. They can also control the motor to turn on and
 turn off, so they can water their crops when required.  
   
-# Project Video:  
+# Web Application Demonstration Video:  
 https://drive.google.com/file/d/1-VMnAjjFFCBnXSHUAd9bJFeAqRJ1qawq/view?usp=sharing  
