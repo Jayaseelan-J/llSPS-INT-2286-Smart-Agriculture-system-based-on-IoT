@@ -1,4 +1,4 @@
-# Smart Agriculture System using IoT
+# Web Application for Smart Agriculture system using IOT
 
  Overview:  
     The main goal of this project is to create and furnish an user - friendly interface
